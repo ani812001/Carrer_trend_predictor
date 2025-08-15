@@ -14,7 +14,10 @@ This project analyzes historical job posting data to predict future in-demand ca
 
 <img width="1823" height="510" alt="image" src="https://github.com/user-attachments/assets/02cb97cf-9814-4d10-83fb-65c0164c9350" />
 
-<img width="1828" height="527" alt="image" src="https://github.com/user-attachments/assets/c322ec30-166c-4174-81bf-036923bb018b" />
+<img width="1828" height="527" alt="image" src="https://github.com/user-attachments/assets/c322ec30-166c-4174-81bf-036923bb018b" />'
+
+<img width="1853" height="595" alt="image" src="https://github.com/user-attachments/assets/4a8fe19a-c586-453c-ba6f-ebf1181fc274" />
+
 
 
 
